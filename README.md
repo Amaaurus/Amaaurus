@@ -8,15 +8,16 @@
 </div>
 </br>
 <div align="center">
-  <img alt="HTML" height="30em" width="40em" src="https://devicon-website.vercel.app/api/html5/original.svg"/> 
+  <a href=""><img alt="HTML" height="30em" width="40em" src="https://devicon-website.vercel.app/api/html5/original.svg"/> 
 <img alt="CSS" height="30em" width="40em" src="https://devicon-website.vercel.app/api/css3/original.svg"/> 
 <img alt="JS" height="30em" width="40em" src="https://devicon-website.vercel.app/api/javascript/plain.svg"/> 
+  </a>
 </div>
 </br>
 <div align="center">
-<a target="_blank" alt="amaaurus@proton.me" href=""><img target="_blank" marge="0px 10px 0px 10px" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
+<a target="_blank" alt="amaaurus@proton.me" href=""><img target="_blank" margin="0px 10px 0px 10px" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
 </a>
-<a target="_blank" href="https://www.instagram.com/amaaurus/"><img marge="0px 10px 0px 10px" target="_blank" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a target="_blank" href="https://www.instagram.com/amaaurus/"><img margin="0px 10px 0px 10px" target="_blank" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </div>
 <h2 align="center">⚠️ Aba em reforma ⚠️</h2>
