@@ -1,7 +1,4 @@
 <h1 align="center">Amaaurus</h1>
-<style>
-  .margem{margin: 10px 10px 10px 10px;}
-</style>
 <div align="center">
   <a href="https://github.com/Amaaurus">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amaaurus&show_icons=false&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
@@ -22,4 +19,3 @@
 <a target="_blank" href="https://www.instagram.com/amaaurus/"><img margin="0px 10px 0px 10px" target="_blank" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </div>
-<h2 align="center">⚠️ Aba em reforma ⚠️</h2>
