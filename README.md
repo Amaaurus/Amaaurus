@@ -6,7 +6,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaaurus&langs_count=16&theme=chartreuse-dark"/>
   </a>
   
-  <img height="30em" width="40em" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
+  <img height="30em" width="40em" src="https://icons8.com.br/icon/10246/html"/>
   
 </div>
 </br>
