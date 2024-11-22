@@ -8,7 +8,7 @@
 </div>
 </br>
 <div align="center">
-<h1>Main Skills</h1>
+<h1 color="green">Main Skills</h1>
 </br>
   <a href=""><img alt="HTML" height="30em" width="40em" src="https://devicon-website.vercel.app/api/html5/original.svg"/> 
 <img alt="CSS" height="30em" width="40em" src="https://devicon-website.vercel.app/api/css3/original.svg"/> 
