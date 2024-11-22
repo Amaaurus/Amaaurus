@@ -8,6 +8,8 @@
 </div>
 </br>
 <div align="center">
+<h1>Main Skills</h1>
+</br>
   <a href=""><img alt="HTML" height="30em" width="40em" src="https://devicon-website.vercel.app/api/html5/original.svg"/> 
 <img alt="CSS" height="30em" width="40em" src="https://devicon-website.vercel.app/api/css3/original.svg"/> 
 <img alt="JS" height="30em" width="40em" src="https://devicon-website.vercel.app/api/javascript/plain.svg"/> 
@@ -15,6 +17,8 @@
 </div>
 </br>
 <div align="center">
+<h1>Contact</h1>
+</br>
 <a target="_blank" alt="amaaurus@proton.me" href=""><img class="margem" target="_blank" margin="0px 10px 0px 10px" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
 </a>
 <a target="_blank" href="https://www.instagram.com/amaaurus/"><img margin="0px 10px 0px 10px" target="_blank" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
