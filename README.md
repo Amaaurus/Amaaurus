@@ -13,5 +13,10 @@
 <img alt="JS" height="30em" width="40em" src="https://devicon-website.vercel.app/api/javascript/plain.svg"/> 
 </div>
 </br>
-<a target="_blank" href=""><img target="_blqnk" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
+<div align="center">
+<a target="_blank" href="amaaurus@proton.me"><img target="_blank" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
+</a>
+<a target="_blank" href=""><img target="_blank" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</div>
 <h2 align="center">⚠️ Aba em reforma ⚠️</h2>
