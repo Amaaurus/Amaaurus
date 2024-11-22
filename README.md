@@ -1,5 +1,5 @@
 <h1 align="center">Amaaurus</h1>
-<img src="https://media2.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif?cid=6c09b952diixl1o3tsubc4yhxbzx2p6v2azhffhli5o13023&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"/>
+<img src="https://media2.giphy.com/media/TqiwHbFBaZ4ti/giphy.gif?cid=6c09b952qq8j99ynrhrzbnebcseyipcakwyyd73xc7oofhhz&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"/>
 <img src="https://www.google.com/imgres?
 <div align="center">
   <a href="https://github.com/Amaaurus">
