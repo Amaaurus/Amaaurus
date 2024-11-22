@@ -1,4 +1,4 @@
-<h1>Amaaurus</h1>
+<h1 align="center">Amaaurus</h1>
 
 <div>
   <a href="https://github.com/Amaaurus">
@@ -7,4 +7,4 @@
   </a>
 </div>
 </br>
-⚠️ Aba em reforma ⚠️
+<h2 align="center">⚠️ Aba em reforma ⚠️</h2>
