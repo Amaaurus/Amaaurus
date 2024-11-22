@@ -1,4 +1,5 @@
 <h1 align="center">Amaaurus</h1>
+<img src="https://media2.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif?cid=6c09b952diixl1o3tsubc4yhxbzx2p6v2azhffhli5o13023&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"/>
 <div align="center">
   <a href="https://github.com/Amaaurus">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amaaurus&show_icons=false&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
