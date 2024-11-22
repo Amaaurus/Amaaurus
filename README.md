@@ -1,4 +1,4 @@
-<h1>Amaaurus [OFF]</h1>
+<h1 text_aligh="center">Amaaurus</h1>
 
 <div>
   <a href="https://github.com/Amaaurus">
