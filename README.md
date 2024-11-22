@@ -1,11 +1,12 @@
 <h1 align="center">Amaaurus</h1>
 <div align="center">
-<img height="500em" width="600em" align="center" src="https://media2.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif?cid=6c09b952diixl1o3tsubc4yhxbzx2p6v2azhffhli5o13023&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"/>
+<img height="450em" width="550em" align="center" src="https://media2.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif?cid=6c09b952diixl1o3tsubc4yhxbzx2p6v2azhffhli5o13023&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"/>
 </div>
 </br>
 <div align="center">
   <a href="https://github.com/Amaaurus">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amaaurus&show_icons=false&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="180em" href="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaaurus&langs_count=16&theme=chartreuse-dark"/>
   </a>
 </div>
