@@ -32,5 +32,5 @@
     </a>
 </div>
 <div align="center">
-  <img src="https://media2.giphy.com/media/TqiwHbFBaZ4ti/giphy.gif?cid=6c09b952qq8j99ynrhrzbnebcseyipcakwyyd73xc7oofhhz&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"/>
+  <img height="450em" width="550em" src="https://media2.giphy.com/media/TqiwHbFBaZ4ti/giphy.gif?cid=6c09b952qq8j99ynrhrzbnebcseyipcakwyyd73xc7oofhhz&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"/>
 </div>
