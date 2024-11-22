@@ -6,7 +6,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaaurus&langs_count=16&theme=chartreuse-dark"/>
   </a>
   
-  <img height="30em" width="40em" src="https://icons8.com.br/icon/10246/html"/>
+  <img height="30em" width="40em" src="https://img.icons8.com/?size=100&id=10246&format=png&color=000000"/>
   
 </div>
 </br>
