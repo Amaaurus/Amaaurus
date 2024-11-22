@@ -5,9 +5,12 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amaaurus&show_icons=false&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaaurus&langs_count=16&theme=chartreuse-dark"/>
   </a>
-  
-  <img height="30em" width="40em" src="https://devicon-website.vercel.app/api/css3/original.svg"/>
-  
+</div>
+</br>
+<div align="center">
+  <img height="30em" width="40em" src="https://devicon-website.vercel.app/api/css3/original.svg"/> 
+<img height="30em" width="40em" src="https://devicon-website.vercel.app/api/css3/original.svg"/> 
+<img height="30em" width="40em" src="https://devicon-website.vercel.app/api/css3/original.svg"/> 
 </div>
 </br>
 <h2 align="center">⚠️ Aba em reforma ⚠️</h2>
